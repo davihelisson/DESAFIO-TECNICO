@@ -1,0 +1,38 @@
+Prompts utilizados:
+
+DESAFIO 01
+
+Olá Qwen, estou fazendo um desafio de código e preciso da sua ajuda. Quero que o programa em C# receba uma frase na entrada do programa e substitua as vogais AEIOU por @#!$% respectivamente. Eu pretendo utilizar o loop "for" para essa tarefa mas não tenho certeza de como vou desenvolver.
+
+Por favor, complete o código abaixo:
+'''
+class CifraEstagiario
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Digite uma frase: ");
+        string cifra = Console.ReadLine();
+
+        
+    }
+}'''
+
+
+
+
+DESAFIO 02
+Agora o próximo desafio é:
+Criar uma classe Animal; criar 3 subclasses (Leão, Macaco e Elefante), e cada um vai sobrescrever o método "EmitirSom()". Então, quando o usuário escolher os animais que ele quer, o programa deve retornar o animal e o respectivo som.
+
+Por exemplo: Animais escolhidos: Leão, Macaco
+Retorno:
+Leão: Rooooar!
+Macaco: Uh uh ah ah!
+
+
+DESAFIO 03
+Agora vamos ao último desafio. Criar um sistema para gerenciar agenda de contatos. Esse sistema deve ter:
+1. Ter uma classe Contato com propriedades Nome, Telefone e Email.
+2. Ter uma classe Agenda que armazene uma lista de contatos.
+3. Permitir adicionar novos contatos, listar todos os contatos e buscar contatos por
+nome.
